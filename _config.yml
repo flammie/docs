@@ -670,16 +670,16 @@ collections:
 #
 # Uralic
 #
-  Urj-pos:
+  urj-pos:
     output: true
-    permalink: /Urj/pos/:path.html
-  Urj-feat:
+    permalink: /urj/pos/:path.html
+  urj-feat:
     output: true
-    permalink: /Urj/feat/:path.html
-  Urj-dep:
+    permalink: /urj/feat/:path.html
+  urj-dep:
     output: true
-    permalink: /Urj/dep/:path.html
-  Urj-overview:
+    permalink: /urj/dep/:path.html
+  urj-overview:
     output: true
 #
 # Template
@@ -707,6 +707,9 @@ collections:
   2015-08-23-uppsala:
     output: true
     permalink: /2015-08-23-uppsala/:path.html
+  v2:
+    output: true
+    permalink: /v2/:path.html
 
 excerpt_separator: "\n\n"
 

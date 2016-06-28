@@ -66,6 +66,7 @@ the [UD mailing list](http://stp.lingfil.uu.se/mailman/listinfo/ud).
 
 See also the [list of open issues](issues.html)
 and what was decided about them at the [Uppsala meeting](uppsala.html).
+New: preparing [v2](v2/index.html).
 
 # Contribute
 
@@ -77,3 +78,5 @@ there are direct links to our treebank search that you can use to browse the sus
 Check that the [list of contributors](contributors.html) is correct; this is gathered from the [metadata](language_metadata.html) in the READMEs. General instructions for contributing to the online documentation can be found [here](contributing.html).
 
 There is a separate [page about tools](tools.html) that are available for work with UD data.
+
+Direct link to the experimental [Uralic language family documentation](uralic.html)
