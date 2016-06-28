@@ -4,5 +4,5 @@ title: 'ADV'
 shortdef: 'adverb'
 ---
 
-This document is a placeholder for the language-specific documentation
-for `ADV`.
+Adverbs are words that modify verbs, clauses or other ad-words, but
+not nominals.

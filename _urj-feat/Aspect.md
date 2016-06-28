@@ -4,5 +4,5 @@ title: 'Aspect'
 shortdef: 'aspect'
 ---
 
-This document is a placeholder for the language-specific documentation
-for `Aspect`.
+Aspect is commonly present in Uralic verb forms as overt morphological
+feature.

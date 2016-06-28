@@ -4,5 +4,9 @@ title: 'INTJ'
 shortdef: 'interjection'
 ---
 
-This document is a placeholder for the language-specific documentation
-for `INTJ`.
+Interjections are used for many spoken language tokens.
+
+Enclitic discourse particles are not, at the moment, analysed at all.
+
+Some interjections feature rich morphology or have counterparts in other parts
+of speech.

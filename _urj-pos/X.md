@@ -4,5 +4,4 @@ title: 'X'
 shortdef: 'other'
 ---
 
-This document is a placeholder for the language-specific documentation
-for `X`.
+X is typically used for foreign language material or other un-processable data.

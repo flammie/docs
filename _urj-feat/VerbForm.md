@@ -4,5 +4,5 @@ title: 'VerbForm'
 shortdef: 'form of verb or deverbative'
 ---
 
-This document is a placeholder for the language-specific documentation
-for `VerbForm`.
+Uralic verbs have rich inflection / derivation pattern for for infinite forms,
+these are marked using VerbForm feature. 

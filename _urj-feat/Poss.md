@@ -4,5 +4,5 @@ title: 'Poss'
 shortdef: 'possessive'
 ---
 
-This document is a placeholder for the language-specific documentation
-for `Poss`.
+Possessive feature is not used as an annotation for Uralic possessive suffixes,
+see Number[psor] and Person[psor] instead.

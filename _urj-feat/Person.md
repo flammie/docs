@@ -4,5 +4,5 @@ title: 'Person'
 shortdef: 'person'
 ---
 
-This document is a placeholder for the language-specific documentation
-for `Person`.
+Person is used for both personal forms of verbal inflection, and as a layered
+feature matching possessive suffixes.

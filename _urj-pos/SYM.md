@@ -4,5 +4,7 @@ title: 'SYM'
 shortdef: 'symbol'
 ---
 
-This document is a placeholder for the language-specific documentation
-for `SYM`.
+Symbols are character sequences other than those in punct part of speech. 
+
+Symbols in many Uralic languages inflect like common nominals, e.g. with an
+intervening punctuation. 

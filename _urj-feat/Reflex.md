@@ -4,5 +4,5 @@ title: 'Reflex'
 shortdef: 'reflexive'
 ---
 
-This document is a placeholder for the language-specific documentation
-for `Reflex`.
+Reflexive inflection is common in some Uralic languages that we haven't
+annotated yet. It should be used.

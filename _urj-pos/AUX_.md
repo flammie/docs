@@ -7,5 +7,6 @@ shortdef: 'auxiliary verb'
 redirect_from: "urj/pos/AUX.html"
 ---
 
-This document is a placeholder for the language-specific documentation
-for `AUX`.
+AUX is a tricky sub-category of verbs. Most languages have selected a closed
+sub-set of verbs. For example verbs that have infinitive complements, verbs
+for syntactic tense constructions, verbs used in possessive structures, etc.

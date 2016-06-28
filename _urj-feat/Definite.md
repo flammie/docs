@@ -3,6 +3,7 @@ layout: feature
 title: 'Definite'
 shortdef: 'definiteness or state'
 ---
-
-This document is a placeholder for the language-specific documentation
-for `Definite`.
+Definiteness is not an explicitly marked feature in most traditional Uralic
+descriptions. Many uralic languages feature few ways of expressing definiteness,
+such as partitive case, which is not marked using Definite feature but just a
+Case.

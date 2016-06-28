@@ -4,5 +4,7 @@ title: 'SCONJ'
 shortdef: 'subordinating conjunction'
 ---
 
-This document is a placeholder for the language-specific documentation
-for `SCONJ`.
+Subordinating conjunctions are like with universal scheme.
+
+Like with co-ordinating conjunctions, there is no common best practice for
+annotating Uralic conjunction enclitics.

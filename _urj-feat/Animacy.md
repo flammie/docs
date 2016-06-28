@@ -4,5 +4,5 @@ title: 'Animacy'
 shortdef: 'animacy'
 ---
 
-This document is a placeholder for the language-specific documentation
-for `Animacy`.
+Uralic languages are not annotated for animacy, as far as we know. If you have
+Uralic animacy examples, please contact us.

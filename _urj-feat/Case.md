@@ -4,5 +4,10 @@ title: 'Case'
 shortdef: 'case'
 ---
 
-This document is a placeholder for the language-specific documentation
-for `Case`.
+Uralic morphology is rich in case suffixes. Typically a case suffix can be
+easily mapped to common feature. There are some corner cases...
+
+## Layered cases
+
+Some Uralic languages allow stacking of case suffixes, which might be
+implemented in UD as layered annotations or lexicalising the inflected form.

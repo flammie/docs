@@ -4,5 +4,5 @@ title: 'PUNCT'
 shortdef: 'punctuation'
 ---
 
-This document is a placeholder for the language-specific documentation
-for `PUNCT`.
+Punctuation marks are a small subset of symbols used for sentence structure
+annotation.

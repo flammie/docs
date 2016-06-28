@@ -4,5 +4,9 @@ title: 'PART'
 shortdef: 'particle'
 ---
 
-This document is a placeholder for the language-specific documentation
-for `PART`.
+Particles should be used scarcely in uralic dependencies. What is called
+particle in lot of Uralic literature is typically adverb, interjection or
+adposition.
+
+Enclitic discourse particles are not analysed in the current versions of Uralic
+dependency schemes.
