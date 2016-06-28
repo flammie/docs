@@ -715,7 +715,7 @@ excerpt_separator: "\n\n"
 
 # URL configuration
 
-home: "http://universaldependencies.org/"
-tracker: "https://github.com/universaldependencies/docs/issues"
-git_raw: "https://raw.githubusercontent.com/universaldependencies/docs/pages-source"
-git_edit: "https://github.com/universaldependencies/docs/edit/pages-source"
+home: "http://flammie.github.io/universaldependencies.github.io/"
+tracker: "https://github.com/flammie/docs/issues"
+git_raw: "https://raw.githubusercontent.com/flammie/docs/pages-source"
+git_edit: "https://github.com/flammie/docs/edit/pages-source"
