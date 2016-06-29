@@ -13,8 +13,8 @@ of the Uralic language group. This concerns existing treebanks and documents of
 [Estonian](../../et/overview/introduction.html), as well as forthcoming minority
 Uralic languages. This project is a first attempt to co-ordinate unity within a
 language group annotation principles and document common best practices. The
-project is maintained by [ACL SIG for Uralic
- Languages](http://gtweb.uit.no/sigur/).
+project is maintained by [ACL SIG for Uralic 
+Languages](http://gtweb.uit.no/sigur/).
 
 One of the things that this documentation does is provides comparisons of
 existing Uralic treebanks, and either explains the differences or points at
